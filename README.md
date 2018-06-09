@@ -1,7 +1,7 @@
 # Brightness and gamma applet
 An applet that sets brightness and gamma levels of a screen for Linux Mint Cinnamon
 
-![Alt text](../master/screenshots/screenshot1.png "Brightness and gamma applet")
+![](screenshots/screenshot1.png)
 
 ## Features
 * Set brightness of the screen
@@ -21,6 +21,3 @@ To specify a screen and outputs:
 1. Right click on the applet
 2. From "Screen" submenu click on a screen
 3. From "Outputs" submenu click on an output
-
-## Source code
-Browse the source of the applet in the [original repository](https://github.com/cardsurf/brightness-and-gamma-applet).
