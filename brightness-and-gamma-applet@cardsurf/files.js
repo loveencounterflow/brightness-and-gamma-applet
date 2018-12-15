@@ -1,4 +1,3 @@
-
 const GLib = imports.gi.GLib;
 const Gio = imports.gi.Gio;
 
@@ -40,7 +39,7 @@ File.prototype = {
 
     overwrite: function(array_strings) {
         let string = array_strings.join(this.newline);
-        return GLib.file_set_contents(this.path, string, string.length, null);
+        return GLib.file_set_contents(this.path, string);
     },
 
     create: function() {
