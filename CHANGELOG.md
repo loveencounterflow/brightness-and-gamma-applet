@@ -1,5 +1,8 @@
 # Changelog
 
+### Version 1.1.1
+Replaced tempfile command with mktemp
+
 ### Version 1.1.0
 Added support for Cinnamon 3.4  
 Added an option to apply values to multiple outputs  
