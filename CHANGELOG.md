@@ -1,5 +1,12 @@
 # Changelog
 
+### Version 1.1.2
+Last used values are stored as a generic storage object  
+Added Bulgarian translation (thanks [spacy01](https://github.com/spacy01))  
+Added French translation (thanks [claudiux](https://github.com/claudiux))  
+Added Brazilian Portuguese translation (thanks [JonasJF360](https://github.com/JonasJF360))  
+Added Italian translation (thanks [Dragone2](https://github.com/Dragone2))  
+
 ### Version 1.1.1
 Replaced tempfile command with mktemp
 
