@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Brightness and gamma applet](#brightness-and-gamma-applet)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+
 # Brightness and gamma applet
 An applet that sets brightness and gamma levels of a screen for Linux Mint Cinnamon
 
